@@ -1,7 +1,7 @@
 # volted.cc
 This is my portfolio. <img class="emoticon" src="assets/icons/rose.png">
 
-Preview - https://volted.cc/
+Preview - https://haitranportfolio.dev
 
 
 ## Features:
