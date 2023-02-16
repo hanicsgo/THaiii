@@ -64,7 +64,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['b', 'bo','bod','boda','bodau','bodaup','bodauph','bodaupho','bodauphon','bodauphong','bodauphon','bodaupho','bodauph','bodaup','bodau','boda','bod','bo','b']);
+  app.titleChanger(['T', 'TH','THa','THai','THaii','THaiii','THaii','THai','THa','TH','T']);
   app.iconChanger(['assets/icons/rose.png']);
 });
 
